@@ -1,4 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =2
-let g:netrw_dirhist_2='/home/tranluixuong/.vim'
-let g:netrw_dirhist_1='/home/tranluixuong/Documents'
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/workspace/notes/scratch.md'
+let g:netrw_dirhist_2='/workspace/notes'
+let g:netrw_dirhist_3='/workspace/notes/scratch.md'
+let g:netrw_dirhist_4='/workspace/notes'
+let g:netrw_dirhist_5='/workspace/notes/history'
+let g:netrw_dirhist_6='/workspace/notes'
